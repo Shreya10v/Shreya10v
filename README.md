@@ -54,7 +54,7 @@ I enjoy building practical applications, developing backend APIs, working with d
 
 ## Featured Projects
 
-### Skin AI
+### Skinzy
 
 An AI-based project focused on **skin-related image analysis and prediction**.
 
