@@ -58,7 +58,7 @@ I enjoy building practical applications, developing backend APIs, working with d
 
 An AI-based project focused on **skin-related image analysis and prediction**.
 
-**Tech:** Python · Machine Learning · Computer Vision · [add your actual framework/model]
+**Tech:** Python · Machine Learning · Computer Vision · Flask 
 
 🔗 [View Project](https://github.com/Shreya10v/SKINZY)
 
